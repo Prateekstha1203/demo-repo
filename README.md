@@ -1,3 +1,3 @@
 # Introduction of github
 
-Description of git
+Description of git and github
